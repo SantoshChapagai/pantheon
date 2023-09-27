@@ -1,0 +1,6 @@
+name: drupal-is-working
+recipe: pantheon
+config:
+  framework: drupal8
+  site: drupal-is-working
+  id: f8b4944c-7842-4784-9124-22d63e4735c8
